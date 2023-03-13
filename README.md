@@ -8,7 +8,7 @@ A System/Web-Application which can predict the price of the flight based on vari
 ## Problem Solution
 A System/Web-Application which can predict the price of the flight based on various affecting factors. The price should be calculated based on the time, source, destination, and number of stops given by user.
 
-#Datasets
+## Datasets
 
 Download the following datasets from Kaggle: train.xlsx and test.xlsx
 https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh

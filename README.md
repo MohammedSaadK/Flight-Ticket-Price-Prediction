@@ -16,5 +16,5 @@ https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh
 ## Demo Video
 https://drive.google.com/file/d/1HCTM_R8-86EvLeavwDrhmxoN3J9ZHtj8/view?usp=share_link
 
-##To get the output
+## To get the output
 Run the Jupyter flight_price.ipynb file and then run app.py file, You'll get the output

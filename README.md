@@ -13,5 +13,8 @@ A System/Web-Application which can predict the price of the flight based on vari
 Download the following datasets from Kaggle: train.xlsx and test.xlsx
 https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh
 
+## Demo Video
+https://drive.google.com/file/d/1HCTM_R8-86EvLeavwDrhmxoN3J9ZHtj8/view?usp=share_link
+
 ##To get the output
 Run the Jupyter flight_price.ipynb file and then run app.py file, You'll get the output

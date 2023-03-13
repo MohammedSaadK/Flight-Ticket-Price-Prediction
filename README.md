@@ -15,8 +15,11 @@ https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh
 
 ## Documentation
 HLD - https://drive.google.com/file/d/1R4_YszXpTS5G8THyIsctGJ_4HnBzdaW9/view?usp=share_link
+
 LLD - https://drive.google.com/file/d/1AAUPtr8vdS8dPd1GpDWlNiHsXzm1BWQL/view?usp=share_link
+
 MockUps - https://drive.google.com/file/d/1YdrlIlr8Gr_iEp68ySQubCmo3arJYqzM/view?usp=share_link
+
 Detailed Project Report - https://drive.google.com/file/d/1Smnt29txpTWj8wZRfTy4tUk_qnoTzgtK/view?usp=share_link
 
 ## Demo Video
